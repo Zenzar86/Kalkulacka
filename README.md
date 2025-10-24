@@ -144,7 +144,3 @@ result = eval(expr, safe_dict, {})
 ## Licence
 
 Akademický projekt - Školní úkol
-
-## Autor
-
-Vytvořeno s pomocí Claude Code
